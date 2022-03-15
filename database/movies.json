@@ -1,0 +1,226 @@
+[{
+  "_id": {
+    "$oid": "62173498832a016141955b1b"
+  },
+  "name": "frozen1",
+  "duration": "140",
+  "filmcast": [
+    "elsa",
+    "anna"
+  ]
+},{
+  "_id": {
+    "$oid": "6217349d832a016141955b1c"
+  },
+  "name": "tanzled",
+  "duration": "150",
+  "filmcast": [
+    "ridger",
+    "fitzberth",
+    "rose",
+    "stein"
+  ]
+},{
+  "_id": {
+    "$oid": "621734a2832a016141955b1d"
+  },
+  "name": "rapunzel",
+  "duration": "130",
+  "filmcast": [
+    "levi",
+    "mandy",
+    "moore",
+    "ron",
+    "jack"
+  ]
+},{
+  "_id": {
+    "$oid": "621734b3832a016141955b1e"
+  },
+  "name": "snowwhite",
+  "duration": "130",
+  "filmcast": [
+    "adriana",
+    "ben",
+    "lucille",
+    "harry",
+    "eddie"
+  ]
+},{
+  "_id": {
+    "$oid": "621734b8832a016141955b1f"
+  },
+  "name": "cyndrella",
+  "duration": "110",
+  "filmcast": [
+    "alex",
+    "joe",
+    "jen",
+    "aria"
+  ]
+},{
+  "_id": {
+    "$oid": "62174acbe3840f09c0a5fd29"
+  },
+  "name": "frozen",
+  "duration": 160,
+  "filmcast": "Elsa",
+  "image": "uploads\\1645693643276-435747222.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:07:23.345Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:07:23.345Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174af8e3840f09c0a5fd2c"
+  },
+  "name": "cyndrella",
+  "duration": 110,
+  "filmcast": "joe,henry",
+  "image": "uploads\\1645693688740-546042305.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:08:08.759Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:08:08.759Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174b40e3840f09c0a5fd2f"
+  },
+  "name": "snowhite",
+  "duration": 120,
+  "filmcast": "edrew",
+  "image": "uploads\\1645693760256-774712332.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:09:20.269Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:09:20.269Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174b85e3840f09c0a5fd32"
+  },
+  "name": "rapunzel",
+  "duration": 150,
+  "filmcast": "henrew",
+  "image": "uploads\\1645693829384-224545091.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:10:29.391Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:10:29.391Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174bc6e3840f09c0a5fd36"
+  },
+  "name": "enchanted",
+  "duration": 160,
+  "filmcast": "fairy",
+  "image": "uploads\\1645693894595-173504448.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:11:34.603Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:11:34.603Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174c08e3840f09c0a5fd3b"
+  },
+  "name": "tangled",
+  "duration": 160,
+  "filmcast": "jack",
+  "image": "uploads\\1645693960902-402083850.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:12:40.906Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:12:40.906Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174c42e3840f09c0a5fd3f"
+  },
+  "name": "barbie",
+  "duration": 110,
+  "filmcast": "anna",
+  "image": "uploads\\1645694018831-209647008.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:13:38.837Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:13:38.837Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174d05e3840f09c0a5fd4c"
+  },
+  "name": "barbie1",
+  "duration": 120,
+  "filmcast": "kely",
+  "image": "uploads\\1645694213286-801009748.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:16:53.302Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:16:53.302Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174d5ae3840f09c0a5fd56"
+  },
+  "name": "barbie",
+  "duration": 110,
+  "filmcast": "anna",
+  "image": "uploads\\1645694298378-742080601.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:18:18.392Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:18:18.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174d99e3840f09c0a5fd60"
+  },
+  "name": "barbieflake",
+  "duration": 160,
+  "filmcast": "anny",
+  "image": "uploads\\1645694361952-521501367.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:19:21.964Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:24:56.198Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62174ef1e3840f09c0a5fd6c"
+  },
+  "name": "barbie",
+  "duration": 120,
+  "filmcast": "kely",
+  "image": "uploads\\1645694705032-825118417.png",
+  "createdAt": {
+    "$date": "2022-02-24T09:25:05.044Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-24T09:25:05.044Z"
+  },
+  "__v": 0
+}]
